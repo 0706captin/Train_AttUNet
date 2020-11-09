@@ -1,0 +1,15 @@
+This is a project about segmentation, default model is Attention-UNet(0909v1 using FCN model). If you want to change models,
+you can modify in the folder named 'models'.
+
+
+'config.py': default parameter setting
+'train.py': the main file of this project
+
+'key_areas_mask.py': to get the mask according to the segmentation boundary
+'utils.crop_key_areas.py':
+    input: key_areas_mask, output from segmentation with original size
+
+'file data_processing_2classifiy.py': to obtained classification dataset
+    'data_processing_2classify.py': the main file of this folder
+    'resize2original.py': resize the segmentation output to the original size
+    'seg2class.py': new classification dataset divided into five class(narrow1, narrow2, ..., wide)

@@ -1,0 +1,1306 @@
+cuda:0
+start_time: 2020-11-04 20:29:42
+Starting epoch 1/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.15581229246324962
+train_acc:0.697734338553288 || test_acc:0.7986218886837667
+Starting epoch 2/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.11988098815911347
+train_acc:0.7985339408618276 || test_acc:0.9221534060927163
+Starting epoch 3/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.11201942484411928
+train_acc:0.8378775574531196 || test_acc:0.9123235828715168
+Starting epoch 4/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.107515014294121
+train_acc:0.8586848272685963 || test_acc:0.9280124699839559
+Starting epoch 5/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.10416646094785796
+train_acc:0.8718764665506858 || test_acc:0.9257992547306098
+Starting epoch 6/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.1011399854388502
+train_acc:0.8821185313313609 || test_acc:0.9323111160271655
+Starting epoch 7/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.09862922959857517
+train_acc:0.8901090795930744 || test_acc:0.9411675081843656
+Starting epoch 8/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.09637827819420232
+train_acc:0.8963870704100374 || test_acc:0.9337813405345151
+Starting epoch 9/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.09419584646821022
+train_acc:0.9015838249904542 || test_acc:0.940649893896862
+Starting epoch 10/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.09220110004146893
+train_acc:0.9060047826373585 || test_acc:0.9409180989842019
+Starting epoch 11/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.0904259497506751
+train_acc:0.9096593208915141 || test_acc:0.9249374097138947
+Starting epoch 12/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.08872872839371364
+train_acc:0.912945160754471 || test_acc:0.9330212609739945
+Starting epoch 13/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.0871640716989835
+train_acc:0.9156389389774924 || test_acc:0.9262722784498533
+Starting epoch 14/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.08565976429316732
+train_acc:0.918068273609546 || test_acc:0.9344091107667563
+Starting epoch 15/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.08418442660735713
+train_acc:0.9202120969872922 || test_acc:0.94333746139968
+Starting epoch 16/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.08276121525300874
+train_acc:0.9221431178505493 || test_acc:0.9460443725119821
+Starting epoch 17/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.08144528749916288
+train_acc:0.9238921875277512 || test_acc:0.935816890035698
+Starting epoch 18/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.08022305928170681
+train_acc:0.9254656797912503 || test_acc:0.9496340537917587
+Starting epoch 19/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.07915854557520813
+train_acc:0.9268156178574002 || test_acc:0.9421865919038095
+Starting epoch 20/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.07809642660948965
+train_acc:0.9281744558804765 || test_acc:0.9448669767740127
+Checkpoint 20 saved !
+Starting epoch 21/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.07712571633358796
+train_acc:0.9293668651307565 || test_acc:0.9268062149268871
+Starting epoch 22/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.07625666757424672
+train_acc:0.9304381340667705 || test_acc:0.9443271690247406
+Starting epoch 23/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.07537172300120194
+train_acc:0.9314775569977467 || test_acc:0.9437241501282377
+Starting epoch 24/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.07457541343238619
+train_acc:0.9324297111806631 || test_acc:0.9480787660744809
+Starting epoch 25/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.07378894380397266
+train_acc:0.9333671639054592 || test_acc:0.9509174559654507
+Starting epoch 26/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.07311574866374333
+train_acc:0.9342335762145152 || test_acc:0.9483961728068052
+Starting epoch 27/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.07243701608644591
+train_acc:0.9350085266479494 || test_acc:0.9491394277923754
+Starting epoch 28/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.07179588431285487
+train_acc:0.9357991124519054 || test_acc:0.9402304817117506
+Starting epoch 29/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.07122017153435284
+train_acc:0.9364678933359671 || test_acc:0.9262242511587885
+Starting epoch 30/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.07066096882853243
+train_acc:0.9371352111005314 || test_acc:0.9463960914568025
+Starting epoch 31/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.07010909790794055
+train_acc:0.9377727674996983 || test_acc:0.950959116402902
+Starting epoch 32/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06960701714787218
+train_acc:0.9384079490667838 || test_acc:0.9437170581163533
+Starting epoch 33/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06912564113736153
+train_acc:0.9389713096074049 || test_acc:0.9506863633062755
+Starting epoch 34/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06868309279282887
+train_acc:0.9395352810774387 || test_acc:0.9496790121943796
+Starting epoch 35/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06823312967187828
+train_acc:0.9400773526655344 || test_acc:0.9443006647545068
+Starting epoch 36/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06785500980913639
+train_acc:0.9405834649055161 || test_acc:0.9424660487479224
+Starting epoch 37/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06748142403860886
+train_acc:0.941039142949402 || test_acc:0.9330409782353133
+Starting epoch 38/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06710315578513676
+train_acc:0.9415126240446738 || test_acc:0.9290942132609668
+Starting epoch 39/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.0667815338820219
+train_acc:0.9419080945117229 || test_acc:0.9528797682671366
+Starting epoch 40/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06643196278148228
+train_acc:0.9423622072629422 || test_acc:0.9463489199685077
+Checkpoint 40 saved !
+Starting epoch 41/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06612784663836162
+train_acc:0.9427454491789087 || test_acc:0.9463094051453255
+Starting epoch 42/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06583793875243929
+train_acc:0.9431470569342333 || test_acc:0.9469855717434663
+Starting epoch 43/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06554085947573185
+train_acc:0.9435387741879018 || test_acc:0.9471824809748516
+Starting epoch 44/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06528825105892287
+train_acc:0.9438903881062165 || test_acc:0.9500653970099838
+Starting epoch 45/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.0650545373145077
+train_acc:0.9442351212760401 || test_acc:0.9436909654148761
+Starting epoch 46/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06480419097675218
+train_acc:0.9445648986209758 || test_acc:0.9464122228297794
+Starting epoch 47/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06458696102102597
+train_acc:0.9448885535167407 || test_acc:0.9465886143402769
+Starting epoch 48/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06436602729890081
+train_acc:0.9451865691366416 || test_acc:0.9450309845312093
+Starting epoch 49/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06418357913692792
+train_acc:0.9454815357849174 || test_acc:0.9428084241013457
+Starting epoch 50/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06400129509468873
+train_acc:0.9457557170089881 || test_acc:0.9412644742143274
+Starting epoch 51/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.0637907050549984
+train_acc:0.9460436879417761 || test_acc:0.9353956810405637
+Starting epoch 52/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06363122041026752
+train_acc:0.9463062839214471 || test_acc:0.9299725679331498
+Starting epoch 53/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06347490515973833
+train_acc:0.9465493134027324 || test_acc:0.9412598777958855
+Starting epoch 54/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06330650196307236
+train_acc:0.9467943433490337 || test_acc:0.9446970831413292
+Starting epoch 55/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06316244726379712
+train_acc:0.9470167018518146 || test_acc:0.9470706822447725
+Starting epoch 56/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.0630278651499086
+train_acc:0.9472431723865647 || test_acc:0.9496207079197094
+Starting epoch 57/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06287736859586504
+train_acc:0.9474791122585127 || test_acc:0.9451034334243366
+Starting epoch 58/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06275512692001131
+train_acc:0.9476887602920511 || test_acc:0.9493334380831661
+Starting epoch 59/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06264285049918625
+train_acc:0.9479005101407104 || test_acc:0.9373680121961776
+Starting epoch 60/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06252239665223493
+train_acc:0.9480977205366939 || test_acc:0.9428973249559781
+Checkpoint 60 saved !
+Starting epoch 61/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06242173465175761
+train_acc:0.9482822700713475 || test_acc:0.9425439600859313
+Starting epoch 62/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.062314891463352576
+train_acc:0.9484719905920921 || test_acc:0.9427489790833552
+Starting epoch 63/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06221373027397527
+train_acc:0.9486663599186183 || test_acc:0.9354659608513793
+Starting epoch 64/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.0621280622565084
+train_acc:0.9488263697854507 || test_acc:0.9516102160366862
+Starting epoch 65/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06204313919362095
+train_acc:0.9490085276695657 || test_acc:0.9464491156156934
+Starting epoch 66/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06195048594640361
+train_acc:0.9491725846487143 || test_acc:0.9457753182639164
+Starting epoch 67/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.061871424317359924
+train_acc:0.949332048819158 || test_acc:0.9468759193765154
+Starting epoch 68/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06178981169230408
+train_acc:0.9494889502378905 || test_acc:0.9481505013907948
+Starting epoch 69/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.061729481961164206
+train_acc:0.949647630316133 || test_acc:0.9377527501818054
+Starting epoch 70/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.061662009089357324
+train_acc:0.9497832855580504 || test_acc:0.9440279166097612
+Starting epoch 71/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06159380999290281
+train_acc:0.9499308814324464 || test_acc:0.9445368206035215
+Starting epoch 72/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06152607221156359
+train_acc:0.9500784801370612 || test_acc:0.9363715726455136
+Starting epoch 73/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06146183879011207
+train_acc:0.9502067578684485 || test_acc:0.941975933842059
+Starting epoch 74/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06140968482941389
+train_acc:0.9503368007346091 || test_acc:0.9428499457202315
+Starting epoch 75/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06135903671383858
+train_acc:0.9504770737511812 || test_acc:0.9418893570948915
+Starting epoch 76/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06129895357622041
+train_acc:0.9506017749100598 || test_acc:0.9441983663714374
+Starting epoch 77/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06125503002355496
+train_acc:0.9507208305806243 || test_acc:0.9448292014180747
+Starting epoch 78/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06120498261104027
+train_acc:0.9508446907532943 || test_acc:0.9431107661329795
+Starting epoch 79/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06115787745349937
+train_acc:0.9509605375288269 || test_acc:0.9462973492775508
+Starting epoch 80/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06111725585328208
+train_acc:0.9510831183791725 || test_acc:0.943349398542292
+Checkpoint 80 saved !
+Starting epoch 81/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.061082745902240276
+train_acc:0.9511813110602568 || test_acc:0.9448315467308454
+Starting epoch 82/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06104667681372828
+train_acc:0.9512991084080127 || test_acc:0.9463879171516525
+Starting epoch 83/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.061008440951506294
+train_acc:0.9514030452212053 || test_acc:0.9413681167950995
+Starting epoch 84/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06096790337728129
+train_acc:0.9515087378301429 || test_acc:0.9441030086473331
+Starting epoch 85/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06093763063351313
+train_acc:0.9516134433407478 || test_acc:0.9436463554899039
+Starting epoch 86/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.060911000395814575
+train_acc:0.9517139471783531 || test_acc:0.9426655226467661
+Starting epoch 87/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.0608765028624071
+train_acc:0.9518055059794728 || test_acc:0.9442776088196262
+Starting epoch 88/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06086398557656341
+train_acc:0.9519027684176139 || test_acc:0.9429109299849282
+Starting epoch 89/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.0608251728117466
+train_acc:0.9519900915374927 || test_acc:0.9431146610833656
+Starting epoch 90/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.0607904696630107
+train_acc:0.9520921314311123 || test_acc:0.941629740464073
+Starting epoch 91/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06077335009144412
+train_acc:0.952168099126676 || test_acc:0.9461815174931376
+Starting epoch 92/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06074827712857061
+train_acc:0.9522602460799396 || test_acc:0.9459839542728743
+Starting epoch 93/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06073094894074731
+train_acc:0.9523473678297159 || test_acc:0.9432166832872506
+Starting epoch 94/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06072017674644788
+train_acc:0.9524368010235943 || test_acc:0.9419466896399824
+Starting epoch 95/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.060688480734825134
+train_acc:0.9525200218291106 || test_acc:0.9426723810003647
+Starting epoch 96/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06067115244352155
+train_acc:0.9526008019606294 || test_acc:0.9404880424827355
+Starting epoch 97/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06066660241534313
+train_acc:0.9526780040863235 || test_acc:0.9411407632586231
+Starting epoch 98/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06066075981491142
+train_acc:0.9527450411165082 || test_acc:0.9402919486488897
+Starting epoch 99/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.060629003991683326
+train_acc:0.9528192061254772 || test_acc:0.9422253295352845
+Starting epoch 100/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.060607492406335145
+train_acc:0.9528848465350875 || test_acc:0.9458040726071929
+Checkpoint 100 saved !
+Starting epoch 101/320.
+lr: 0.0001
+Epoch finished ! Loss: 0.06058132120718559
+train_acc:0.9529633739771476 || test_acc:0.9434600350745553
+Starting epoch 102/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.06058413928581609
+train_acc:0.9530334709519577 || test_acc:0.9424575229169628
+Starting epoch 103/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.059805480452875294
+train_acc:0.9529186461493846 || test_acc:0.936841567064696
+Starting epoch 104/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.056720364631878004
+train_acc:0.952837362387919 || test_acc:0.9465964261704656
+Starting epoch 105/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.05479170868380202
+train_acc:0.9527828610625743 || test_acc:0.9354798526130179
+Starting epoch 106/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.05312694381508562
+train_acc:0.9527472093101117 || test_acc:0.9519688362318885
+Starting epoch 107/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.05159338843077421
+train_acc:0.9527295311081002 || test_acc:0.9368303794569286
+Starting epoch 108/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.05018723952687449
+train_acc:0.9527181311789081 || test_acc:0.9468756921976179
+Starting epoch 109/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.048850552178919315
+train_acc:0.952728850865218 || test_acc:0.9519567560829043
+Starting epoch 110/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.0476662747354971
+train_acc:0.9527546922634458 || test_acc:0.9445573202265973
+Starting epoch 111/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.0465851699312528
+train_acc:0.9527782739688188 || test_acc:0.9547941494831156
+Starting epoch 112/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.04553953744471073
+train_acc:0.952814220236882 || test_acc:0.95180770021345
+Starting epoch 113/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.04461651098810964
+train_acc:0.9528557042259479 || test_acc:0.9451790275867269
+Starting epoch 114/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.043752860381371446
+train_acc:0.952889895323783 || test_acc:0.9490966502113538
+Starting epoch 115/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.042936009251409106
+train_acc:0.9529298751309341 || test_acc:0.9494623761242053
+Starting epoch 116/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.04219244513660669
+train_acc:0.9529706295688942 || test_acc:0.9404775035706968
+Starting epoch 117/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.04149276183711158
+train_acc:0.9530097044727148 || test_acc:0.9531891464213937
+Starting epoch 118/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.04084642717821731
+train_acc:0.9530466511793343 || test_acc:0.9457295975693856
+Starting epoch 119/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.04023099152578248
+train_acc:0.9530886110785884 || test_acc:0.9440825132716939
+Starting epoch 120/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.039669031691220075
+train_acc:0.9531250640959877 || test_acc:0.9498410478839037
+Checkpoint 120 saved !
+Starting epoch 121/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.03912928979843855
+train_acc:0.9531646735677748 || test_acc:0.9476159242393584
+Starting epoch 122/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.038612485138906374
+train_acc:0.9532027866675509 || test_acc:0.9437607106829344
+Starting epoch 123/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.038140430529084474
+train_acc:0.9532452189000102 || test_acc:0.9386555804083143
+Starting epoch 124/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.037700821024676166
+train_acc:0.9532770597252926 || test_acc:0.9508966385540558
+Starting epoch 125/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.03728411657114824
+train_acc:0.9533163037905595 || test_acc:0.9485933955192046
+Starting epoch 126/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.03690071704073085
+train_acc:0.953350998578117 || test_acc:0.9349214153731763
+Starting epoch 127/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.03652804127583901
+train_acc:0.9533863404289236 || test_acc:0.9510131146640818
+Starting epoch 128/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.036178046009606786
+train_acc:0.953425801216652 || test_acc:0.9418731450003732
+Starting epoch 129/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.035862898350589804
+train_acc:0.953452943780118 || test_acc:0.9477074198130688
+Starting epoch 130/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.0355243995371792
+train_acc:0.9534883384648368 || test_acc:0.9344387240441043
+Starting epoch 131/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.03523672310014566
+train_acc:0.9535195210061422 || test_acc:0.9464374059429814
+Starting epoch 132/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.034956937241885394
+train_acc:0.9535556784802539 || test_acc:0.9433131434351694
+Starting epoch 133/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.034695719886157245
+train_acc:0.9535872185219526 || test_acc:0.9500833884212021
+Starting epoch 134/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.03444865790920125
+train_acc:0.9536172915730975 || test_acc:0.9420659887872953
+Starting epoch 135/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.03421557539453109
+train_acc:0.9536469134065552 || test_acc:0.9490570580877815
+Starting epoch 136/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.03398357342100806
+train_acc:0.9536784540525887 || test_acc:0.9480064993136009
+Starting epoch 137/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.03377465717494488
+train_acc:0.9537083017235238 || test_acc:0.9417274382210533
+Starting epoch 138/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.03358547079066435
+train_acc:0.9537352361706409 || test_acc:0.9506685426284981
+Starting epoch 139/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.033410505288177066
+train_acc:0.9537702538886228 || test_acc:0.9277554790428214
+Starting epoch 140/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.033218388342195086
+train_acc:0.9537928806445404 || test_acc:0.9476455515579058
+Checkpoint 140 saved !
+Starting epoch 141/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.03304468861056699
+train_acc:0.9538246913307775 || test_acc:0.9449142846741867
+Starting epoch 142/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.032901009958651334
+train_acc:0.9538448429347597 || test_acc:0.9491803606671877
+Starting epoch 143/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.03272679520563947
+train_acc:0.9538736610852595 || test_acc:0.9451910157184528
+Starting epoch 144/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.032582503433028855
+train_acc:0.9539002119171204 || test_acc:0.9457813106523765
+Starting epoch 145/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.03244097520493799
+train_acc:0.9539287245148677 || test_acc:0.9427961615329608
+Starting epoch 146/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.03230947463048829
+train_acc:0.9539528476747124 || test_acc:0.9444733678920435
+Starting epoch 147/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.032188319911559425
+train_acc:0.9539784427210501 || test_acc:0.9459195735447216
+Starting epoch 148/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.032073690038588315
+train_acc:0.9540031539366446 || test_acc:0.9461473955372283
+Starting epoch 149/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.03196108517133527
+train_acc:0.9540254612138455 || test_acc:0.9441357507632256
+Starting epoch 150/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.031854405274821654
+train_acc:0.9540529834963337 || test_acc:0.9409579601429949
+Starting epoch 151/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.03175358846783638
+train_acc:0.9540729145352785 || test_acc:0.9417545869495854
+Starting epoch 152/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.031665904343956046
+train_acc:0.9540941413919918 || test_acc:0.9463069620982698
+Starting epoch 153/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.031563668304847345
+train_acc:0.9541167556719089 || test_acc:0.9449523079790184
+Starting epoch 154/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.03147307741973135
+train_acc:0.9541403993996671 || test_acc:0.944491036873474
+Starting epoch 155/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.03138729893705911
+train_acc:0.9541640420741069 || test_acc:0.9437646460106978
+Starting epoch 156/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.031316489395168096
+train_acc:0.9541844598346491 || test_acc:0.9435625973496725
+Starting epoch 157/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.031234876873592537
+train_acc:0.9542064353158596 || test_acc:0.9460788968914634
+Starting epoch 158/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.03117385284147329
+train_acc:0.9542251186561646 || test_acc:0.9410636308568553
+Starting epoch 159/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.031105176442199282
+train_acc:0.9542475374065827 || test_acc:0.9448754103631618
+Starting epoch 160/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.031034707712630432
+train_acc:0.9542656349297005 || test_acc:0.9457674161092916
+Checkpoint 160 saved !
+Starting epoch 161/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.030971486328376666
+train_acc:0.9542868471329221 || test_acc:0.9475074635982305
+Starting epoch 162/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.0309183320754932
+train_acc:0.9543059966082864 || test_acc:0.9431214463601193
+Starting epoch 163/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.030854609484473865
+train_acc:0.9543241143188671 || test_acc:0.9422218621883359
+Starting epoch 164/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.03080372688257032
+train_acc:0.9543462756534755 || test_acc:0.9450184368640845
+Starting epoch 165/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.03075967190994157
+train_acc:0.9543611256337226 || test_acc:0.9480705645188691
+Starting epoch 166/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.030711749516841438
+train_acc:0.9543832093112816 || test_acc:0.9446600651898532
+Starting epoch 167/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.03065998096846872
+train_acc:0.9543994573169927 || test_acc:0.9463732382062386
+Starting epoch 168/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.030616861612846453
+train_acc:0.9544193685323069 || test_acc:0.9455462037568244
+Starting epoch 169/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.03057329004837407
+train_acc:0.9544383891235139 || test_acc:0.94456610893167
+Starting epoch 170/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.030531845779882535
+train_acc:0.954453581581426 || test_acc:0.9452710785569773
+Starting epoch 171/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.030498717911541462
+train_acc:0.954470613954873 || test_acc:0.9458578756964605
+Starting epoch 172/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.030458406286521092
+train_acc:0.9544894228231066 || test_acc:0.9428031106173245
+Starting epoch 173/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.03042660772593485
+train_acc:0.9545056967987674 || test_acc:0.9437867446798026
+Starting epoch 174/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.030393905885931518
+train_acc:0.9545222167123667 || test_acc:0.9457925918443907
+Starting epoch 175/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.03037240154420336
+train_acc:0.9545385842553274 || test_acc:0.9446118178300673
+Starting epoch 176/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.030337004353188805
+train_acc:0.9545549339474004 || test_acc:0.9434820785046717
+Starting epoch 177/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.03031025030132797
+train_acc:0.9545704711304582 || test_acc:0.9453168046219247
+Starting epoch 178/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.030281474710338645
+train_acc:0.954585750432308 || test_acc:0.9446242254521299
+Starting epoch 179/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.030251949456416898
+train_acc:0.9546013644226155 || test_acc:0.9452171325634511
+Starting epoch 180/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.03022838316650854
+train_acc:0.9546176970107052 || test_acc:0.9459537067822479
+Checkpoint 180 saved !
+Starting epoch 181/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.0302105988893244
+train_acc:0.9546330495408563 || test_acc:0.9451949889307468
+Starting epoch 182/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.03019597355483307
+train_acc:0.95464831124119 || test_acc:0.9455817901274082
+Starting epoch 183/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.030171833725439176
+train_acc:0.9546631908085002 || test_acc:0.9421831286629323
+Starting epoch 184/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.030149736752112705
+train_acc:0.9546751933767557 || test_acc:0.9464581691403767
+Starting epoch 185/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.030129249828557175
+train_acc:0.9546916082771973 || test_acc:0.9450857563142604
+Starting epoch 186/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.030112557475351624
+train_acc:0.9547063248433499 || test_acc:0.9431571899736448
+Starting epoch 187/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.030095363449719217
+train_acc:0.954716953289483 || test_acc:0.9459653093097882
+Starting epoch 188/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.030078433505776856
+train_acc:0.9547324224327459 || test_acc:0.9463712471758142
+Starting epoch 189/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.030065044450263183
+train_acc:0.9547445369734364 || test_acc:0.9453612989861698
+Starting epoch 190/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.030045411756469145
+train_acc:0.9547585181933641 || test_acc:0.9452029280939822
+Starting epoch 191/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.030037722188151546
+train_acc:0.9547741662321122 || test_acc:0.9445656930845627
+Starting epoch 192/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.030022892428355083
+train_acc:0.9547875956048036 || test_acc:0.9446134012381052
+Starting epoch 193/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.030007786790115967
+train_acc:0.9547982368333627 || test_acc:0.9452163914535063
+Starting epoch 194/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.029997591032750077
+train_acc:0.9548146666713595 || test_acc:0.9437612083220444
+Starting epoch 195/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.029982433136966493
+train_acc:0.9548246235195395 || test_acc:0.9450770346609292
+Starting epoch 196/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.029969961072007816
+train_acc:0.9548413133025843 || test_acc:0.9428557810673001
+Starting epoch 197/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.029966509538806148
+train_acc:0.954851422393587 || test_acc:0.9436614440037034
+Starting epoch 198/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.029952433270712692
+train_acc:0.9548641817466819 || test_acc:0.9444494759558525
+Starting epoch 199/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.029944736665735643
+train_acc:0.954877162553837 || test_acc:0.9440282888184449
+Starting epoch 200/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.029938260558992624
+train_acc:0.9548866875752599 || test_acc:0.944940848223022
+Checkpoint 200 saved !
+Starting epoch 201/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.029930161777883768
+train_acc:0.9549018939842784 || test_acc:0.9434165591298709
+Starting epoch 202/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.029923371504992247
+train_acc:0.9549133548758483 || test_acc:0.9449629277811434
+Starting epoch 203/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.029912439226690266
+train_acc:0.9549225885928808 || test_acc:0.943966384185516
+Starting epoch 204/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.02990337238750524
+train_acc:0.954934278268266 || test_acc:0.9446600709177544
+Starting epoch 205/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.029898632938663166
+train_acc:0.9549469154179225 || test_acc:0.9448726956897353
+Starting epoch 206/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.029891016530907817
+train_acc:0.9549577408729546 || test_acc:0.9439896356876933
+Starting epoch 207/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.029879983152366348
+train_acc:0.9549695696533707 || test_acc:0.9445122145945395
+Starting epoch 208/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.029877494813667402
+train_acc:0.9549807543182784 || test_acc:0.9443393275918032
+Starting epoch 209/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.02987197983182139
+train_acc:0.9549905484721644 || test_acc:0.9450585462797656
+Starting epoch 210/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.02986586161164774
+train_acc:0.955000738828876 || test_acc:0.9441419528851251
+Starting epoch 211/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.029857004009601142
+train_acc:0.9550139187451754 || test_acc:0.9446627516667431
+Starting epoch 212/320.
+lr: 9.5e-05
+Epoch finished ! Loss: 0.029856629048784573
+train_acc:0.9550243795827225 || test_acc:0.9452833153039667
+Starting epoch 213/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.029858288613872394
+train_acc:0.9550328442939044 || test_acc:0.9442764132700295
+Starting epoch 214/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.029824234855671723
+train_acc:0.9549913805728139 || test_acc:0.9436950714863281
+Starting epoch 215/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.02872726957624157
+train_acc:0.9549517350442498 || test_acc:0.9398349254401087
+Starting epoch 216/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.02757291475103961
+train_acc:0.9549331181596281 || test_acc:0.9489251353526993
+Starting epoch 217/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.026550538889649842
+train_acc:0.9549331951621204 || test_acc:0.9347664472681717
+Starting epoch 218/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.025707263654718798
+train_acc:0.9549337003892251 || test_acc:0.939778907952253
+Starting epoch 219/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.024893735225001972
+train_acc:0.954937682892181 || test_acc:0.9502220268813295
+Starting epoch 220/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.02422554615057177
+train_acc:0.9549413955273298 || test_acc:0.9549280857470106
+Checkpoint 220 saved !
+Starting epoch 221/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.02358283707872033
+train_acc:0.9549449260520988 || test_acc:0.9459469110748054
+Starting epoch 222/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.022965049060682457
+train_acc:0.9549532552459985 || test_acc:0.9436634932022522
+Starting epoch 223/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.022415713510579534
+train_acc:0.9549591730766671 || test_acc:0.9513475821614075
+Starting epoch 224/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.02192715938306517
+train_acc:0.9549703004889724 || test_acc:0.945040417234146
+Starting epoch 225/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.02147185683457388
+train_acc:0.9549771967239301 || test_acc:0.9404776805865198
+Starting epoch 226/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.021034334579275712
+train_acc:0.9549820429564279 || test_acc:0.9543833547023028
+Starting epoch 227/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.020645490899268124
+train_acc:0.9549936923623539 || test_acc:0.9378282741593527
+Starting epoch 228/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.0202745727987753
+train_acc:0.9549993151157634 || test_acc:0.9406446099390737
+Starting epoch 229/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.019931950968586735
+train_acc:0.9550067027258217 || test_acc:0.9416587714663245
+Starting epoch 230/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.01960095064714551
+train_acc:0.9550129949404856 || test_acc:0.9447692641291083
+Starting epoch 231/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.01932676498674684
+train_acc:0.955021891140292 || test_acc:0.9449253836835783
+Starting epoch 232/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.019044664171006944
+train_acc:0.9550273271826093 || test_acc:0.9505138454506624
+Starting epoch 233/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.01877789468401008
+train_acc:0.9550336048250755 || test_acc:0.9467916780330418
+Starting epoch 234/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.018531634679271117
+train_acc:0.9550394823189692 || test_acc:0.9478621874644474
+Starting epoch 235/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.018296118256532483
+train_acc:0.955046742805946 || test_acc:0.946496183632737
+Starting epoch 236/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.018089394964691665
+train_acc:0.9550519759835548 || test_acc:0.9427376972242014
+Starting epoch 237/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.017887238309615187
+train_acc:0.9550585716802575 || test_acc:0.9415886497049768
+Starting epoch 238/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.017695629503577948
+train_acc:0.9550644045740351 || test_acc:0.9425807999590847
+Starting epoch 239/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.017524004448205233
+train_acc:0.9550699942012987 || test_acc:0.9441482325945584
+Starting epoch 240/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.01734301447868347
+train_acc:0.9550749325447715 || test_acc:0.9506910469181469
+Checkpoint 240 saved !
+Starting epoch 241/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.01718547748815682
+train_acc:0.9550811379136195 || test_acc:0.9381105692284445
+Starting epoch 242/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.017039461113098595
+train_acc:0.9550866781752702 || test_acc:0.942530116201545
+Starting epoch 243/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.016894458068741694
+train_acc:0.9550919799722072 || test_acc:0.9434011850229379
+Starting epoch 244/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.016761393286287785
+train_acc:0.9550969025239917 || test_acc:0.9436190153351269
+Starting epoch 245/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.016635445826169517
+train_acc:0.9551020125086667 || test_acc:0.9469336937937667
+Starting epoch 246/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.0165155289384226
+train_acc:0.9551065253238986 || test_acc:0.9445658366320006
+Starting epoch 247/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.016402189516358905
+train_acc:0.9551107724151718 || test_acc:0.9453970583256207
+Starting epoch 248/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.016302039277636342
+train_acc:0.9551157861375889 || test_acc:0.9404712763112966
+Starting epoch 249/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.01619526433447997
+train_acc:0.9551204661813288 || test_acc:0.9428114265714558
+Starting epoch 250/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.016102623763597675
+train_acc:0.9551250340904687 || test_acc:0.9455684949788569
+Starting epoch 251/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.016007989334563415
+train_acc:0.9551285633691885 || test_acc:0.9477263699804044
+Starting epoch 252/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.01592263186143504
+train_acc:0.9551326378899135 || test_acc:0.9451680243231638
+Starting epoch 253/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.01583803015657597
+train_acc:0.9551371263188 || test_acc:0.9468776384140745
+Starting epoch 254/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.015762105584144592
+train_acc:0.9551415587017831 || test_acc:0.9461447291234434
+Starting epoch 255/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.015687622647318576
+train_acc:0.9551453630298553 || test_acc:0.9438134391203464
+Starting epoch 256/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.015621740914260348
+train_acc:0.9551511783782595 || test_acc:0.9403035204756536
+Starting epoch 257/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.015559702206196057
+train_acc:0.9551535607388674 || test_acc:0.9457873932331415
+Starting epoch 258/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.015487642648319403
+train_acc:0.9551581517460204 || test_acc:0.9445925305606271
+Starting epoch 259/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.015424459060240123
+train_acc:0.955162084571939 || test_acc:0.9431438954986581
+Starting epoch 260/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.015369559353631403
+train_acc:0.955165942740938 || test_acc:0.9451579281992323
+Checkpoint 260 saved !
+Starting epoch 261/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.015316078103043966
+train_acc:0.9551693411653353 || test_acc:0.9451494353694491
+Starting epoch 262/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.01526562636718154
+train_acc:0.955174330781218 || test_acc:0.9448888170787413
+Starting epoch 263/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.015216818363923166
+train_acc:0.9551766340016515 || test_acc:0.9449325459475175
+Starting epoch 264/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.01516536501650181
+train_acc:0.9551806898677249 || test_acc:0.9458592376697648
+Starting epoch 265/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.015119523404993944
+train_acc:0.9551842808018267 || test_acc:0.9440865436008724
+Starting epoch 266/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.015080847001324097
+train_acc:0.9551867255865012 || test_acc:0.9454212969643678
+Starting epoch 267/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.015040858545237117
+train_acc:0.9551908778162828 || test_acc:0.9434871171025494
+Starting epoch 268/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.015001573936185904
+train_acc:0.9551942852374431 || test_acc:0.9450809874504239
+Starting epoch 269/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014965196010760136
+train_acc:0.9551977138821987 || test_acc:0.944081834258694
+Starting epoch 270/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014933065925207403
+train_acc:0.9552014804196559 || test_acc:0.9459155900320586
+Starting epoch 271/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014899840604306923
+train_acc:0.9552038922945738 || test_acc:0.9465994143714396
+Starting epoch 272/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014873339354784952
+train_acc:0.9552064555212232 || test_acc:0.9458029275895716
+Starting epoch 273/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014835618048285445
+train_acc:0.9552112989420384 || test_acc:0.944194825304092
+Starting epoch 274/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014807341465105614
+train_acc:0.9552132636842599 || test_acc:0.9451019637388153
+Starting epoch 275/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014784809693487154
+train_acc:0.9552160068786515 || test_acc:0.945099868691164
+Starting epoch 276/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.0147588059771806
+train_acc:0.9552200641762681 || test_acc:0.9449330088564901
+Starting epoch 277/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014732323224759765
+train_acc:0.9552232384027198 || test_acc:0.944536751490725
+Starting epoch 278/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.01470733343416618
+train_acc:0.9552251186500531 || test_acc:0.9463043522942731
+Starting epoch 279/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014686301376463639
+train_acc:0.9552288535120161 || test_acc:0.9453944358925539
+Starting epoch 280/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014666112502002053
+train_acc:0.9552327742293352 || test_acc:0.9424782530175272
+Checkpoint 280 saved !
+Starting epoch 281/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014644250015003813
+train_acc:0.9552348368685614 || test_acc:0.9449489986198911
+Starting epoch 282/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014622710308887892
+train_acc:0.955237669275975 || test_acc:0.9455573550498799
+Starting epoch 283/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014606238679132529
+train_acc:0.9552410519257024 || test_acc:0.9438906951597963
+Starting epoch 284/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014586559574430188
+train_acc:0.9552433933990098 || test_acc:0.9441572069389473
+Starting epoch 285/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014571602430401577
+train_acc:0.9552460725149908 || test_acc:0.945909606805994
+Starting epoch 286/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014554813607699342
+train_acc:0.9552490355320613 || test_acc:0.9451316752949492
+Starting epoch 287/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014543731153632203
+train_acc:0.9552509320098864 || test_acc:0.9442478992230201
+Starting epoch 288/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014526523701432679
+train_acc:0.955255173546821 || test_acc:0.9448204077469313
+Starting epoch 289/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014510717475786805
+train_acc:0.9552564250874431 || test_acc:0.9449171499357862
+Starting epoch 290/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014496970171522763
+train_acc:0.9552596771373342 || test_acc:0.9447707930151713
+Starting epoch 291/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014485615279732479
+train_acc:0.9552619806067699 || test_acc:0.945155519812526
+Starting epoch 292/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014474785032992562
+train_acc:0.95526509207854 || test_acc:0.9443710941028998
+Starting epoch 293/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014464933735628923
+train_acc:0.9552678614143285 || test_acc:0.9453297088162125
+Starting epoch 294/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.0144514969498333
+train_acc:0.9552697628466376 || test_acc:0.9456096878550319
+Starting epoch 295/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014443024346191023
+train_acc:0.9552725184186259 || test_acc:0.9458782507110022
+Starting epoch 296/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014431041820595661
+train_acc:0.9552747726909354 || test_acc:0.945293990105012
+Starting epoch 297/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014422624992827574
+train_acc:0.9552777382460196 || test_acc:0.9444467604919377
+Starting epoch 298/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.01441168479828371
+train_acc:0.955280341117315 || test_acc:0.9450764918640604
+Starting epoch 299/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014405010216352012
+train_acc:0.9552828726597439 || test_acc:0.9452501595243731
+Starting epoch 300/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014396748841843672
+train_acc:0.9552858727154138 || test_acc:0.9447984850924122
+Checkpoint 300 saved !
+Starting epoch 301/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014389441995364096
+train_acc:0.9552880621136034 || test_acc:0.9446559389581988
+Starting epoch 302/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014381887701650461
+train_acc:0.9552907125218377 || test_acc:0.9447492065165098
+Starting epoch 303/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014380431475324763
+train_acc:0.9552921327793044 || test_acc:0.9443081325217231
+Starting epoch 304/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014371090568602085
+train_acc:0.9552948527399062 || test_acc:0.945217253191611
+Starting epoch 305/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014363628165382478
+train_acc:0.9552977249338578 || test_acc:0.9450212827822639
+Starting epoch 306/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.01435661561683648
+train_acc:0.9553004989454337 || test_acc:0.945250954100159
+Starting epoch 307/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014354613738962345
+train_acc:0.9553024553977232 || test_acc:0.9442578705618107
+Starting epoch 308/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014345645335399441
+train_acc:0.9553041214717721 || test_acc:0.9449464606016349
+Starting epoch 309/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014340618677023385
+train_acc:0.9553066281509738 || test_acc:0.9457263034741542
+Starting epoch 310/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014335263365258774
+train_acc:0.9553082283638831 || test_acc:0.9452307224906996
+Starting epoch 311/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014333480529280173
+train_acc:0.9553107556099579 || test_acc:0.9450692026480545
+Starting epoch 312/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014328530084134804
+train_acc:0.9553130025188885 || test_acc:0.9448362759592954
+Starting epoch 313/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014322799682203267
+train_acc:0.9553158443229421 || test_acc:0.9446598435309943
+Starting epoch 314/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014317975276046328
+train_acc:0.9553174997062914 || test_acc:0.9447277780438894
+Starting epoch 315/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014316324222212037
+train_acc:0.9553201068927057 || test_acc:0.9450193947183929
+Starting epoch 316/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014310745858690806
+train_acc:0.9553224516472542 || test_acc:0.9450093851755388
+Starting epoch 317/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014308410722555386
+train_acc:0.9553254850212494 || test_acc:0.9448485581422621
+Starting epoch 318/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.01430332544259727
+train_acc:0.9553259469083349 || test_acc:0.9452593175524046
+Starting epoch 319/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.01430029336673518
+train_acc:0.9553284807326125 || test_acc:0.9448465595900646
+Starting epoch 320/320.
+lr: 9.025e-05
+Epoch finished ! Loss: 0.014297285608740317
+Traceback (most recent call last):
+  File "train.py", line 207, in <module>
+    k_fold(k=opt.k,
+  File "train.py", line 150, in k_fold
+    total, name = train_valid(i, net, num_epochs, learning_rate, weight_decay, batch_size, date)
+  File "train.py", line 108, in train_valid
+    valid_acc, valid_iou, valid_dice, name = eval_net(i, net, num_epochs, epoch, validation_loader, date)
+  File "/home/chenxj/PycharmProjects/2_UNet/B4_attUnetv5.1/eval.py", line 66, in eval_net
+    save_score(i+1, name, valid_iou, valid_acc, valid_dice, date)
+TypeError: save_score() missing 1 required positional argument: 'date'

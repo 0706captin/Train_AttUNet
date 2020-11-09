@@ -1,0 +1,74 @@
+start_time: 2020-09-02 14:31:57
+Starting epoch 1/2.
+lr: 0.001
+Epoch finished ! Loss: 0.16084045846211284
+/home/huangjq/PyCharmCode/4_project/1_UNet/B4_attUnetv5.1/utils/criterion.py:111: RuntimeWarning: invalid value encountered in true_divide
+  acc_cls = np.diag(hist) / hist.sum(axis=1)
+train_acc:0.634096471757214 || test_acc:0.6097675949932791
+Starting epoch 2/2.
+lr: 0.001
+Epoch finished ! Loss: 0.1349542161351756
+train_acc:0.6584974311942373 || test_acc:0.700212736912967
+END epoch2!
+输出train每个epoch的loss值:
+train_loss_epoch:[0.16084045846211284, 0.1349542161351756]
+输出000valid每个epoch的loss值:
+valid_loss_epoch:[]
+输出每个epoch的acc值:
+train_acc_epoch:[0.634096471757214, 0.6584974311942373]
+ valid_acc_epoch:[0.6097675949932791, 0.700212736912967]
+输出最后一个epoch的值:
+train_acc:0.6584974311942373 
+ valid_acc:0.700212736912967
+
+
+train_iou:0.799913863602088 
+ valid_iou:0.8412676321195162
+
+
+train_dice:0.8365528553724288 
+ valid_dice:0.8383991549775301
+
+
+Starting epoch 1/2.
+lr: 0.001
+Epoch finished ! Loss: 0.16978648053972345
+train_acc:0.5991903893969248 || test_acc:0.7028412834930629
+Starting epoch 2/2.
+lr: 0.001
+Epoch finished ! Loss: 0.13805266767740249
+train_acc:0.636491527836955 || test_acc:0.6246035695826557
+END epoch2!
+输出train每个epoch的loss值:
+train_loss_epoch:[0.16978648053972345, 0.13805266767740249]
+输出000valid每个epoch的loss值:
+valid_loss_epoch:[]
+输出每个epoch的acc值:
+train_acc_epoch:[0.5991903893969248, 0.636491527836955]
+ valid_acc_epoch:[0.7028412834930629, 0.6246035695826557]
+输出最后一个epoch的值:
+train_acc:0.636491527836955 
+ valid_acc:0.6246035695826557
+
+
+train_iou:0.782806513433254 
+ valid_iou:0.7754959739348383
+
+
+train_dice:0.8230926306624161 
+ valid_dice:0.7699953226315591
+
+
+########## 最终k折交叉验证结果 ##########
+train_acc_mean:0.6475
+ valid_acc_mean:0.6624
+ train_iou_mean:0.7914
+ valid_iou_mean:0.8084
+ train_dice_mean:0.8298
+ valid_dice_mean:0.8042
+
+train_acc_sd:0.0110 valid_acc_sd:0.0378
+train_iou_sd:0.0086 valid_iou_sd:0.0329
+train_dice_sd:0.0067 valid_dice_sd:0.0342
+end_time: 2020-09-02 20:52:41
+total_time: Thu Jan 01 14:20:43 1970

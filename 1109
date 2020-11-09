@@ -1,0 +1,96 @@
+cuda:0
+start_time: 2020-11-09 10:39:43
+Starting epoch 1/21.
+lr: 0.0001
+Epoch finished ! Loss: 0.16376974350876278
+train_acc:0.7045063880238963 || test_acc:0.6212130457211713
+Starting epoch 2/21.
+lr: 0.0001
+Epoch finished ! Loss: 0.1312061163286368
+train_acc:0.7984056349992066 || test_acc:0.906256470723134
+Starting epoch 3/21.
+lr: 0.0001
+Epoch finished ! Loss: 0.12443503447704846
+train_acc:0.8338085056389835 || test_acc:0.9136331919266897
+Starting epoch 4/21.
+lr: 0.0001
+Epoch finished ! Loss: 0.1177900346616904
+train_acc:0.8575878528018388 || test_acc:0.9216231559888123
+Starting epoch 5/21.
+lr: 0.0001
+Epoch finished ! Loss: 0.11378880155583222
+train_acc:0.8726996300230141 || test_acc:0.9172205217638876
+Starting epoch 6/21.
+lr: 0.0001
+Epoch finished ! Loss: 0.11049939629932244
+train_acc:0.8831218787920678 || test_acc:0.9265040673509995
+Starting epoch 7/21.
+lr: 0.0001
+Epoch finished ! Loss: 0.10753023914164966
+train_acc:0.8910530378356166 || test_acc:0.9270960831245721
+Starting epoch 8/21.
+lr: 0.0001
+Epoch finished ! Loss: 0.10485640830463833
+train_acc:0.8971698565006443 || test_acc:0.9300408310921858
+Starting epoch 9/21.
+lr: 0.0001
+Epoch finished ! Loss: 0.10243461653590202
+train_acc:0.9020591174953985 || test_acc:0.9281963152147841
+Starting epoch 10/21.
+lr: 0.0001
+Epoch finished ! Loss: 0.10022948040730423
+train_acc:0.9059615015930625 || test_acc:0.9329190100052797
+Starting epoch 11/21.
+lr: 0.0001
+Epoch finished ! Loss: 0.09810149483382702
+train_acc:0.9094914718977514 || test_acc:0.9139949017666424
+Starting epoch 12/21.
+lr: 0.0001
+Epoch finished ! Loss: 0.09616758632991049
+train_acc:0.9123541510749967 || test_acc:0.9325343862317494
+Starting epoch 13/21.
+lr: 0.0001
+Epoch finished ! Loss: 0.09435692864159743
+train_acc:0.914984475190033 || test_acc:0.9324222588957577
+Starting epoch 14/21.
+lr: 0.0001
+Epoch finished ! Loss: 0.09262754850917393
+train_acc:0.9172512792805915 || test_acc:0.9323503496872956
+Starting epoch 15/21.
+lr: 0.0001
+Epoch finished ! Loss: 0.09104778162307209
+train_acc:0.9192527185831588 || test_acc:0.9260205565733178
+Starting epoch 16/21.
+lr: 0.0001
+Epoch finished ! Loss: 0.08950678776535723
+train_acc:0.9211473746266239 || test_acc:0.9220706749191057
+Starting epoch 17/21.
+lr: 0.0001
+Epoch finished ! Loss: 0.08809426882200772
+train_acc:0.9228306711688128 || test_acc:0.9344665523750925
+Starting epoch 18/21.
+lr: 0.0001
+Epoch finished ! Loss: 0.08673025812539789
+train_acc:0.9244072499642667 || test_acc:0.9381878476184341
+Starting epoch 19/21.
+lr: 0.0001
+Epoch finished ! Loss: 0.08544706780877379
+train_acc:0.9258609031550454 || test_acc:0.9387012198174448
+Starting epoch 20/21.
+lr: 0.0001
+Epoch finished ! Loss: 0.08407097434004147
+train_acc:0.9271347413064294 || test_acc:0.9374070411095309
+Checkpoint 20 saved !
+Starting epoch 21/21.
+lr: 0.0001
+Epoch finished ! Loss: 0.08247534972098139
+Traceback (most recent call last):
+  File "train.py", line 201, in <module>
+    k_fold(k=opt.k,
+  File "train.py", line 144, in k_fold
+    total, name = train_valid(i, net, num_epochs, learning_rate, weight_decay, batch_size, date)
+  File "train.py", line 108, in train_valid
+    valid_acc, valid_iou, valid_dice, name = eval_net(i, net, num_epochs, epoch, validation_loader, date)
+  File "/home/chenxj/PycharmProjects/2_UNet/B4_attUnetv5.1/eval.py", line 66, in eval_net
+    save_score(i+1, name, valid_iou, valid_acc, valid_dice, date)
+TypeError: save_score() missing 1 required positional argument: 'date'
